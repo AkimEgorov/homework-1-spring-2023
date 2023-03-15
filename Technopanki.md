@@ -58,6 +58,18 @@
 `BUG` - на некоторых разрешениях (например Macbook 13" не появляется иллюстрация)
 <img src="include/auth_ill_error.png" />
 
+# <p href="search"Поиск</p>
+
+## Ссылки:
+<a href="https://jobflow.su/search/vacancy">Вакансии</a>
+
+<a href="https://jobflow.su/search/resume">Резюме</a>
+
+<a href="https://jobflow.su/search/applicant">Соискатели</a>
+
+<a href="https://jobflow.su/search/employer">Работодатели</a>
+
+## Тестирование
 
 ### Общие кейсы для поиска
 1. При нажатии на Enter с пустым полем ввода результатом поиска будут все поля ✅
