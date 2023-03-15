@@ -58,7 +58,7 @@
 `BUG` - на некоторых разрешениях (например Macbook 13" не появляется иллюстрация)
 <img src="include/auth_ill_error.png" />
 
-# <p href="search"Поиск</p>
+# <p href="search">Поиск</p>
 
 ## Ссылки:
 <a href="https://jobflow.su/search/vacancy">Вакансии</a>
